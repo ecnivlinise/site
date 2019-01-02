@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Le site de Vince
+### Bonjour, je m'appèlle vince et j'ai GitHub et Dribbble (information inutile)
+[Mon GitHub](https://github.com/ecnivlinise/) [Mon Dribbble](https://dribbble.com/ecnivtwelve)
 
-You can use the [editor on GitHub](https://github.com/ecnivlinise/site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Informatique
+J'ai appris HTML/CSS via OpenClassrooms à 8 ans, puis VB, puis JS, puis Python, puis PHP.
+J'aime aussi créer des designs via PowerPoint et Adobe XD.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Fruit
+Tu t'attendais à lire quelque chose d'utile avec ce titre de catégorie ? et bah tu te trompes.
 
-### Markdown
+## Légume
+MAIS TU N'AS PAS COMPRIS ? QU'EST CE QUE TU VEUX DE PLUS xD !
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ecnivlinise/site/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+### Mon numéro de téléphone
+07 tu as cr uq uo i?
+### Mail
+vince@jecroisquetuasdautresmoyensdeconta.ct
