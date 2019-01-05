@@ -7,6 +7,13 @@
   -webkit-animation: AnimationName 4s ease infinite;
   -moz-animation: AnimationName 4s ease infinite;
   animation: AnimationName 4s ease infinite;
+  
+  text-align: center;
+  font-family: Quicksand;
+  
+  height: 20em;
+  line-height: 20em;
+  white-space: nowrap;
 }
 
 @-webkit-keyframes AnimationName {
