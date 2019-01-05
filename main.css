@@ -15,9 +15,11 @@ body {
   text-align: center;
   font-family: Quicksand;
   
-  height: 20em;
-  line-height: 20em;
-  white-space: nowrap;
+  display:flex;
+}
+
+#textettt {
+  margin: auto;
 }
 
 @-webkit-keyframes AnimationName {
