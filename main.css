@@ -15,11 +15,13 @@ body {
   text-align: center;
   font-family: Quicksand;
   
-  display:flex;
+  display: flex; /* contexte sur le parent */
+  flex-direction: column; /* direction d'affichage verticale */
+  justify-content: center; /* alignement vertical */
 }
 
 #textettt {
-  margin: auto;
+  font-size: 50px;
 }
 
 @-webkit-keyframes AnimationName {
