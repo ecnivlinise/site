@@ -1,5 +1,5 @@
 # Le site de Vince
-[Dribbble](http://dribbble.com/ecnivtwelve)   [GitHub](http://github.com/ecnivlinise)
+[Dribbble](http://dribbble.com/ecnivtwelve)   [GitHub](http://github.com/ecnivlinise)   [Blog](https://ecnivtwelve.blogspot.com/)
 
 ## Mes projets
 Aucun de mes projets sont dispo publiquement, mais c'est prévu pour bientôt !
